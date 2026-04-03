@@ -1,4 +1,11 @@
-# Hi 👋, I'm Luca
+<div align="center">
+  
+  # Hi 👋, I'm Luca
+  
+  **A Compute Science Student passionate about code development**
+  
+</div>
+
 
 - 🔭 I’m currently working on **different project**.
 - 📫 How to reach me: [9698100@itisrossi.vi.it](mailto:9698100@itisrossi.vi.it)
